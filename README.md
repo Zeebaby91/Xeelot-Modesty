@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -69,3 +70,7 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
 "# fashion-website" 
+=======
+# Xeelot-Modesty
+Xeelot Modesty is a modern, responsive fashion e-commerce web application built with React.js. The platform is designed to showcase and sell modest fashion items, providing users with a seamless and interactive shopping experience.
+>>>>>>> da029434f703d276f11a123fce1e32561d719f12
